@@ -205,7 +205,7 @@ Este proyecto está bajo la licencia **MIT**. Siéntete libre de usarlo, modific
 
 **Enderson**  
 [![GitHub](https://img.shields.io/badge/GitHub-@endeR2104-181717?style=flat-square&logo=github)](https://github.com/endeR2104)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-tuPerfil-0A66C2?style=flat-square&logo=linkedin)](www.linkedin.com/in/enderson-peñaloza-2a0814354)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-enderson-peñaloza-2a0814354?style=flat-square&logo=linkedin)](www.linkedin.com/in/enderson-peñaloza-2a0814354)  
 
 ---
 
